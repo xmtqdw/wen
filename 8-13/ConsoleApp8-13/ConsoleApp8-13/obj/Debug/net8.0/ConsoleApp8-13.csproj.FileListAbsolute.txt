@@ -1,0 +1,14 @@
+D:\domeC#\ConsoleApp8-13\ConsoleApp8-13\bin\Debug\net8.0\ConsoleApp8-13.exe
+D:\domeC#\ConsoleApp8-13\ConsoleApp8-13\bin\Debug\net8.0\ConsoleApp8-13.deps.json
+D:\domeC#\ConsoleApp8-13\ConsoleApp8-13\bin\Debug\net8.0\ConsoleApp8-13.runtimeconfig.json
+D:\domeC#\ConsoleApp8-13\ConsoleApp8-13\bin\Debug\net8.0\ConsoleApp8-13.dll
+D:\domeC#\ConsoleApp8-13\ConsoleApp8-13\bin\Debug\net8.0\ConsoleApp8-13.pdb
+D:\domeC#\ConsoleApp8-13\ConsoleApp8-13\obj\Debug\net8.0\ConsoleApp8-13.GeneratedMSBuildEditorConfig.editorconfig
+D:\domeC#\ConsoleApp8-13\ConsoleApp8-13\obj\Debug\net8.0\ConsoleApp8-13.AssemblyInfoInputs.cache
+D:\domeC#\ConsoleApp8-13\ConsoleApp8-13\obj\Debug\net8.0\ConsoleApp8-13.AssemblyInfo.cs
+D:\domeC#\ConsoleApp8-13\ConsoleApp8-13\obj\Debug\net8.0\ConsoleApp8-13.csproj.CoreCompileInputs.cache
+D:\domeC#\ConsoleApp8-13\ConsoleApp8-13\obj\Debug\net8.0\ConsoleApp8-13.dll
+D:\domeC#\ConsoleApp8-13\ConsoleApp8-13\obj\Debug\net8.0\refint\ConsoleApp8-13.dll
+D:\domeC#\ConsoleApp8-13\ConsoleApp8-13\obj\Debug\net8.0\ConsoleApp8-13.pdb
+D:\domeC#\ConsoleApp8-13\ConsoleApp8-13\obj\Debug\net8.0\ConsoleApp8-13.genruntimeconfig.cache
+D:\domeC#\ConsoleApp8-13\ConsoleApp8-13\obj\Debug\net8.0\ref\ConsoleApp8-13.dll
