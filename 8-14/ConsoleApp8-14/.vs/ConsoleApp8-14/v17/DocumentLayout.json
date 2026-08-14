@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\domeC#\\ConsoleApp8-14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C2B93F-53B8-491D-8BAE-2DE7E9861D7F}|ConsoleApp8-14\\ConsoleApp8-14.csproj|d:\\domec#\\consoleapp8-14\\consoleapp8-14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C2B93F-53B8-491D-8BAE-2DE7E9861D7F}|ConsoleApp8-14\\ConsoleApp8-14.csproj|solutionrelative:consoleapp8-14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\domeC#\\ConsoleApp8-14\\ConsoleApp8-14\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8-14\\Program.cs",
+              "ToolTip": "D:\\domeC#\\ConsoleApp8-14\\ConsoleApp8-14\\Program.cs",
+              "RelativeToolTip": "ConsoleApp8-14\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T01:00:46.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

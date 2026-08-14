@@ -1,0 +1,14 @@
+D:\domeC#\dome\dome\bin\Debug\net8.0\dome.exe
+D:\domeC#\dome\dome\bin\Debug\net8.0\dome.deps.json
+D:\domeC#\dome\dome\bin\Debug\net8.0\dome.runtimeconfig.json
+D:\domeC#\dome\dome\bin\Debug\net8.0\dome.dll
+D:\domeC#\dome\dome\bin\Debug\net8.0\dome.pdb
+D:\domeC#\dome\dome\obj\Debug\net8.0\dome.GeneratedMSBuildEditorConfig.editorconfig
+D:\domeC#\dome\dome\obj\Debug\net8.0\dome.AssemblyInfoInputs.cache
+D:\domeC#\dome\dome\obj\Debug\net8.0\dome.AssemblyInfo.cs
+D:\domeC#\dome\dome\obj\Debug\net8.0\dome.csproj.CoreCompileInputs.cache
+D:\domeC#\dome\dome\obj\Debug\net8.0\dome.dll
+D:\domeC#\dome\dome\obj\Debug\net8.0\refint\dome.dll
+D:\domeC#\dome\dome\obj\Debug\net8.0\dome.pdb
+D:\domeC#\dome\dome\obj\Debug\net8.0\dome.genruntimeconfig.cache
+D:\domeC#\dome\dome\obj\Debug\net8.0\ref\dome.dll
