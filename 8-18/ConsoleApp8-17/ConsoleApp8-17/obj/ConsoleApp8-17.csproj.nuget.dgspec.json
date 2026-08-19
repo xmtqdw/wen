@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\domeC#\\ConsoleApp8-17\\ConsoleApp8-17\\ConsoleApp8-17.csproj": {}
+    "E:\\桌面\\GitHub\\8-18\\ConsoleApp8-17\\ConsoleApp8-17\\ConsoleApp8-17.csproj": {}
   },
   "projects": {
-    "D:\\domeC#\\ConsoleApp8-17\\ConsoleApp8-17\\ConsoleApp8-17.csproj": {
+    "E:\\桌面\\GitHub\\8-18\\ConsoleApp8-17\\ConsoleApp8-17\\ConsoleApp8-17.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\domeC#\\ConsoleApp8-17\\ConsoleApp8-17\\ConsoleApp8-17.csproj",
+        "projectUniqueName": "E:\\桌面\\GitHub\\8-18\\ConsoleApp8-17\\ConsoleApp8-17\\ConsoleApp8-17.csproj",
         "projectName": "ConsoleApp8-17",
-        "projectPath": "D:\\domeC#\\ConsoleApp8-17\\ConsoleApp8-17\\ConsoleApp8-17.csproj",
+        "projectPath": "E:\\桌面\\GitHub\\8-18\\ConsoleApp8-17\\ConsoleApp8-17\\ConsoleApp8-17.csproj",
         "packagesPath": "C:\\Users\\稳\\.nuget\\packages\\",
-        "outputPath": "D:\\domeC#\\ConsoleApp8-17\\ConsoleApp8-17\\obj\\",
+        "outputPath": "E:\\桌面\\GitHub\\8-18\\ConsoleApp8-17\\ConsoleApp8-17\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\稳\\AppData\\Roaming\\NuGet\\NuGet.Config",

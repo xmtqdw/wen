@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\domeC#\\ConsoleApp8-17\\",
+  "WorkspaceRootPath": "E:\\\u684C\u9762\\GitHub\\8-18\\ConsoleApp8-17\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92C00BF8-47A4-4302-8D89-1594FCAB096A}|ConsoleApp8-17\\ConsoleApp8-17.csproj|d:\\domec#\\consoleapp8-17\\consoleapp8-17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92C00BF8-47A4-4302-8D89-1594FCAB096A}|ConsoleApp8-17\\ConsoleApp8-17.csproj|solutionrelative:consoleapp8-17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92C00BF8-47A4-4302-8D89-1594FCAB096A}|ConsoleApp8-17\\ConsoleApp8-17.csproj|d:\\domec#\\consoleapp8-17\\consoleapp8-17\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{92C00BF8-47A4-4302-8D89-1594FCAB096A}|ConsoleApp8-17\\ConsoleApp8-17.csproj|e:\\\u684C\u9762\\github\\8-18\\consoleapp8-17\\consoleapp8-17\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92C00BF8-47A4-4302-8D89-1594FCAB096A}|ConsoleApp8-17\\ConsoleApp8-17.csproj|solutionrelative:consoleapp8-17\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\domeC#\\ConsoleApp8-17\\ConsoleApp8-17\\bin\\Debug\\net8.0\\book.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{92C00BF8-47A4-4302-8D89-1594FCAB096A}|ConsoleApp8-17\\ConsoleApp8-17.csproj|e:\\\u684C\u9762\\github\\8-18\\consoleapp8-17\\consoleapp8-17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C00BF8-47A4-4302-8D89-1594FCAB096A}|ConsoleApp8-17\\ConsoleApp8-17.csproj|solutionrelative:consoleapp8-17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u684C\u9762\\GitHub\\8-18\\ConsoleApp8-17\\ConsoleApp8-17\\bin\\Debug\\net8.0\\book.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp8-17\\bin\\Debug\\net8.0\\book.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BookManager.cs",
-              "DocumentMoniker": "D:\\domeC#\\ConsoleApp8-17\\ConsoleApp8-17\\BookManager.cs",
+              "DocumentMoniker": "E:\\\u684C\u9762\\GitHub\\8-18\\ConsoleApp8-17\\ConsoleApp8-17\\BookManager.cs",
               "RelativeDocumentMoniker": "ConsoleApp8-17\\BookManager.cs",
-              "ToolTip": "D:\\domeC#\\ConsoleApp8-17\\ConsoleApp8-17\\BookManager.cs",
+              "ToolTip": "E:\\\u684C\u9762\\GitHub\\8-18\\ConsoleApp8-17\\ConsoleApp8-17\\BookManager.cs",
               "RelativeToolTip": "ConsoleApp8-17\\BookManager.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAqwMwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAgwK0AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T09:27:28.513Z",
               "IsPinned": true,
@@ -50,24 +50,23 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "book.json",
-              "DocumentMoniker": "D:\\domeC#\\ConsoleApp8-17\\ConsoleApp8-17\\bin\\Debug\\net8.0\\book.json",
+              "DocumentMoniker": "E:\\\u684C\u9762\\GitHub\\8-18\\ConsoleApp8-17\\ConsoleApp8-17\\bin\\Debug\\net8.0\\book.json",
               "RelativeDocumentMoniker": "ConsoleApp8-17\\bin\\Debug\\net8.0\\book.json",
-              "ToolTip": "D:\\domeC#\\ConsoleApp8-17\\ConsoleApp8-17\\bin\\Debug\\net8.0\\book.json",
+              "ToolTip": "E:\\\u684C\u9762\\GitHub\\8-18\\ConsoleApp8-17\\ConsoleApp8-17\\bin\\Debug\\net8.0\\book.json",
               "RelativeToolTip": "ConsoleApp8-17\\bin\\Debug\\net8.0\\book.json",
               "ViewState": "AgIAABcAAAAAAAAAAAAqwBcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-18T11:11:00.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-18T11:11:00.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\domeC#\\ConsoleApp8-17\\ConsoleApp8-17\\Program.cs",
+              "DocumentMoniker": "E:\\\u684C\u9762\\GitHub\\8-18\\ConsoleApp8-17\\ConsoleApp8-17\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp8-17\\Program.cs",
-              "ToolTip": "D:\\domeC#\\ConsoleApp8-17\\ConsoleApp8-17\\Program.cs",
+              "ToolTip": "E:\\\u684C\u9762\\GitHub\\8-18\\ConsoleApp8-17\\ConsoleApp8-17\\Program.cs",
               "RelativeToolTip": "ConsoleApp8-17\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAwGkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAwE0AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T01:22:10.979Z",
               "EditorCaption": ""
